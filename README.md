@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm Eda, developer working with modern web technologies and constantly exploring new tools and frameworks.
+Welcome to my GitHub profile! I'm Eda, a developer working with modern web and mobile technologies, constantly exploring new tools and frameworks.
 
 ---
 
